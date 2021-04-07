@@ -17,3 +17,5 @@
 [第二章：变量和简单数据类型](https://github.com/xiaowen-king/Python/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0%EF%BC%9A%E5%8F%98%E9%87%8F%E5%92%8C%E7%AE%80%E5%8D%95%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
 
 [第三章：列表简介](https://github.com/xiaowen-king/Python/blob/main/%E7%AC%AC%E4%B8%89%E7%AB%A0%EF%BC%9A%E5%88%97%E8%A1%A8%E7%AE%80%E4%BB%8B.md)
+
+[第四章：操作列表](https://github.com/xiaowen-king/Python/blob/main/%E7%AC%AC%E5%9B%9B%E7%AB%A0%EF%BC%9A%E6%93%8D%E4%BD%9C%E5%88%97%E8%A1%A8.md)
