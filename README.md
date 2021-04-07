@@ -21,3 +21,5 @@
 [第四章：操作列表](https://github.com/xiaowen-king/Python/blob/main/%E7%AC%AC%E5%9B%9B%E7%AB%A0%EF%BC%9A%E6%93%8D%E4%BD%9C%E5%88%97%E8%A1%A8.md)
 
 [第五章：if语句](https://github.com/xiaowen-king/Python/blob/main/%E7%AC%AC%E4%BA%94%E7%AB%A0%EF%BC%9Aif%E8%AF%AD%E5%8F%A5.md)
+
+[第六章：字典](https://github.com/xiaowen-king/Python/blob/main/%E7%AC%AC%E5%85%AD%E7%AB%A0%EF%BC%9A%E5%AD%97%E5%85%B8.md)
