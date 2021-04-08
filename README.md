@@ -9,7 +9,7 @@
 我自己感觉这本书对初学者很友好，这书从最基础的搭建编程环境开始教你，其次到变量、列表等，都是最基础的，每个章节后面还有一些练习，让你学习完这个章节就自己动手试一试，加强自己在这个章节学到的东西。<br>
 链接：https://item.jd.com/11993134.html
 书封面
-![教材封面](/img/fm.jpg)
+![教材封面](/images/fm.jpg)
 
 # 目录
 [第一章：起步](https://github.com/xiaowen-king/Python/blob/main/%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%9A%E8%B5%B7%E6%AD%A5.md)
