@@ -1,3 +1,11 @@
+# 快速导航
+
+- [ ] **[简介](https://github.com/xiaowen-king/Python#%E7%AE%80%E4%BB%8B)**
+
+- [ ] **[学习教材](https://github.com/xiaowen-king/Python#%E5%AD%A6%E4%B9%A0%E6%95%99%E6%9D%90)**
+
+- [ ] **[目录](https://github.com/xiaowen-king/Python#%E7%9B%AE%E5%BD%95)**
+
 # 简介
 因为自己最近在学Python，所以创建了这个仓库。<br>
 虽然我是计算机专业的，但是之前没接触过Python这个东西，而且自己记性又差，所以只能多做笔记，毕竟好记性不如烂笔头。<br>
