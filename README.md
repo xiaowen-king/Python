@@ -25,7 +25,7 @@
 
 # 目录 [ ![返回顶部](images/top.png)](https://github.com/xiaowen-king/Python#%E5%BF%AB%E9%80%9F%E5%AF%BC%E8%88%AA)
 
-[第一章：起步](https://github.com/xiaowen-king/Python/blob/main/%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%9A%E8%B5%B7%E6%AD%A5.md)
+- [x] [第一章：起步](https://github.com/xiaowen-king/Python/blob/main/%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%9A%E8%B5%B7%E6%AD%A5.md)
 
 [第二章：变量和简单数据类型](https://github.com/xiaowen-king/Python/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0%EF%BC%9A%E5%8F%98%E9%87%8F%E5%92%8C%E7%AE%80%E5%8D%95%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
 
