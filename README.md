@@ -27,12 +27,12 @@
 
 - [x] [第一章：起步](https://github.com/xiaowen-king/Python/blob/main/%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%9A%E8%B5%B7%E6%AD%A5.md)
 
-[第二章：变量和简单数据类型](https://github.com/xiaowen-king/Python/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0%EF%BC%9A%E5%8F%98%E9%87%8F%E5%92%8C%E7%AE%80%E5%8D%95%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
+- [x] [第二章：变量和简单数据类型](https://github.com/xiaowen-king/Python/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0%EF%BC%9A%E5%8F%98%E9%87%8F%E5%92%8C%E7%AE%80%E5%8D%95%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
 
-[第三章：列表简介](https://github.com/xiaowen-king/Python/blob/main/%E7%AC%AC%E4%B8%89%E7%AB%A0%EF%BC%9A%E5%88%97%E8%A1%A8%E7%AE%80%E4%BB%8B.md)
+- [ ] [第三章：列表简介](https://github.com/xiaowen-king/Python/blob/main/%E7%AC%AC%E4%B8%89%E7%AB%A0%EF%BC%9A%E5%88%97%E8%A1%A8%E7%AE%80%E4%BB%8B.md)
 
-[第四章：操作列表](https://github.com/xiaowen-king/Python/blob/main/%E7%AC%AC%E5%9B%9B%E7%AB%A0%EF%BC%9A%E6%93%8D%E4%BD%9C%E5%88%97%E8%A1%A8.md)
+- [ ] [第四章：操作列表](https://github.com/xiaowen-king/Python/blob/main/%E7%AC%AC%E5%9B%9B%E7%AB%A0%EF%BC%9A%E6%93%8D%E4%BD%9C%E5%88%97%E8%A1%A8.md)
 
-[第五章：if语句](https://github.com/xiaowen-king/Python/blob/main/%E7%AC%AC%E4%BA%94%E7%AB%A0%EF%BC%9Aif%E8%AF%AD%E5%8F%A5.md)
+- [ ] [第五章：if语句](https://github.com/xiaowen-king/Python/blob/main/%E7%AC%AC%E4%BA%94%E7%AB%A0%EF%BC%9Aif%E8%AF%AD%E5%8F%A5.md)
 
-[第六章：字典](https://github.com/xiaowen-king/Python/blob/main/%E7%AC%AC%E5%85%AD%E7%AB%A0%EF%BC%9A%E5%AD%97%E5%85%B8.md)
+- [ ] [第六章：字典](https://github.com/xiaowen-king/Python/blob/main/%E7%AC%AC%E5%85%AD%E7%AB%A0%EF%BC%9A%E5%AD%97%E5%85%B8.md)
