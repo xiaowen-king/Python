@@ -1,10 +1,10 @@
 # 快速导航
 
-- [ ] **[简介](https://github.com/xiaowen-king/Python#%E7%AE%80%E4%BB%8B--)**
+- [x] **[简介](https://github.com/xiaowen-king/Python#%E7%AE%80%E4%BB%8B--)**
 
-- [ ] **[学习教材](https://github.com/xiaowen-king/Python#%E5%AD%A6%E4%B9%A0%E6%95%99%E6%9D%90--)**
+- [x] **[学习教材](https://github.com/xiaowen-king/Python#%E5%AD%A6%E4%B9%A0%E6%95%99%E6%9D%90--)**
 
-- [ ] **[目录](https://github.com/xiaowen-king/Python#%E7%9B%AE%E5%BD%95--)**
+- [x] **[目录](https://github.com/xiaowen-king/Python#%E7%9B%AE%E5%BD%95--)**
 
 # 简介 [ ![返回顶部](images/top.png)](https://github.com/xiaowen-king/Python#%E5%BF%AB%E9%80%9F%E5%AF%BC%E8%88%AA)
 
